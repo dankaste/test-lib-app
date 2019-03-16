@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <p>
       test-lib works!
+      things and stuff
     </p>
   `,
   styles: []
